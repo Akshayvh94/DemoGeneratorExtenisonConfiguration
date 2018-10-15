@@ -2,17 +2,17 @@
 
 1. Download the Zip file from [Azure DevOps Demo Generator - Extractor page](https://vstsdemogenerator-test.azurewebsites.net/)
 
-    ![Extractor](Images\1.png)
+    ![Extractor](Images/1.png)
 
 1. Unzip the Zip file,and open Extensions.json
 
-    ![JsonFile](Images\2.png)
+    ![JsonFile](Images/2.png)
 
 1. Go to your Extension in  [Marketplace](https://marketplace.visualstudio.com)
 
 1. Copy the URL 
 
-    ![URL](Images\3.png)
+    ![URL](Images/3.png)
 
 1. Lets say, If the URL is 
     ```
